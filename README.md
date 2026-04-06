@@ -1,2 +1,2 @@
-# A.-Kanan
-1st Draft
+# A-Kanan
+Author: Gabriel Ebang
